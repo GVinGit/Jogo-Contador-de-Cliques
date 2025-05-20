@@ -1,1 +1,0 @@
-# Jogo-Contador-de-Cliques
